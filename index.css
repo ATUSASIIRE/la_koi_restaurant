@@ -1040,8 +1040,8 @@
 .email-link::after { background-color: #1e73be; }
 .email-link::before { border-color: #1e73be transparent transparent transparent; }
 
-.social-link.facebook::after { background-color: #1877f2; }
-.social-link.facebook::before { border-color: #1877f2 transparent transparent transparent; }
+.social-link.instagram::after { background-color: #1877f2; }
+.social-link.instagram::before { border-color: #1877f2 transparent transparent transparent; }
 
 .social-link.linkedin::after { background-color: #0a66c2; }
 .social-link.linkedin::before { border-color: #0a66c2 transparent transparent transparent; }
