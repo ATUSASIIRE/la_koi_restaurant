@@ -83,5 +83,15 @@ header {
     transform: scale(1.05);
     z-index: 2;
 
+/* Mobile Alignment (Screens under 768px) */
+@media (max-width: 768px) {
+  .gallery-container {
+    grid-template-columns: 1fr; /* Switch to a single column */
+    justify-content: center;
+    padding: 10px;
+  }
+}
+    
+
 
 }
